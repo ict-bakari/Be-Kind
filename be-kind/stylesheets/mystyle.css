@@ -1,0 +1,45 @@
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px
+}
+
+p{
+    font-family: Arial, helvetica, times;
+    
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 0 ;
+    padding: 20px 0;
+    color: deepskyblue;
+    text-shadow: 3px 3px 1px black
+    
+}
+
+#boldly{
+    font-style: italic;
+}
+
+body{
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    width: 600px;
+    border: 4px solid black;
+    background-color: yellow;
+}
+
+html {
+    background-color: #0f20f5;
+    font-family: sans-serif;
+    font-size: 12px;
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    
+}
